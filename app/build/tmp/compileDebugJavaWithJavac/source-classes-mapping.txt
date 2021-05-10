@@ -1,0 +1,12 @@
+com/example/propaganda/Sobre.java
+ com.example.propaganda.Sobre
+ com.example.propaganda.Sobre$1
+com/example/propaganda/Menu.java
+ com.example.propaganda.Menu
+ com.example.propaganda.Menu$1
+ com.example.propaganda.Menu$2
+com/example/propaganda/Telefone.java
+ com.example.propaganda.Telefone
+ com.example.propaganda.Telefone$1
+com/example/propaganda/BuildConfig.java
+ com.example.propaganda.BuildConfig
